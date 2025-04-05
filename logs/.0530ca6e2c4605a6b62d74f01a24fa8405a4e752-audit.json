@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\TTeu\\Documents\\projects\\Bingo-API\\logs\\.0530ca6e2c4605a6b62d74f01a24fa8405a4e752-audit.json",
+    "files": [
+        {
+            "date": 1743889221278,
+            "name": "C:\\Users\\TTeu\\Documents\\projects\\Bingo-API\\logs\\application-2025-04-05.log",
+            "hash": "82d1f0e02b81bbdf07efdb3616e8f82c98cbc2c6bdeaaaee1b4d6d62b114ee3b"
+        }
+    ],
+    "hashType": "sha256"
+}
